@@ -255,12 +255,13 @@ font-weight:600;
 font-family:arial;
 }
 
-#form label {
+#form label #applicationForm label {
 font-family: 'BigNoodleTitling', sans-serif;
 }
 
-#signupCoverText, #contactHeading {
-font-family: 'BigNoodleTitling', sans-serif;;
+
+#signupCoverText, #contactHeading, #applicationheading {
+font-family: 'BigNoodleTitling', sans-serif;
 font-weight:600;
 }
 
